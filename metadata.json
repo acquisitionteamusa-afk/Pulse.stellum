@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Subscription Intelligence",
+  "description": "An advanced command center to monitor digital subscriptions, calculate Cost-Per-Use value scores, find free or cheaper alternatives, and leverage AI stack audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
